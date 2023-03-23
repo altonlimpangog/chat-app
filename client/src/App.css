@@ -60,8 +60,7 @@ body {
 }
 .chatWindow .chatHeader {
   height: 45px;
-  border-radius: 6px;
-  background: #263238;
+  background: blue;
   position: relative;
   cursor: pointer;
 }

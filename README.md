@@ -1,5 +1,7 @@
 just install the node modules (run 'npm install') in the client and server folders.
 
+run 'npm start' on both folders to start the server and the reactapp
+
 
 IN THE APPLICATION:
 
